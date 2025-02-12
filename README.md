@@ -1,4 +1,4 @@
-# Spark-Masters-Course-Haider-Ali
+# Spark-Masters-Course-Zaidi-Syed-Haider-Ali
 The repo for sharing class material with the instructor
 
 ### Lab-1
